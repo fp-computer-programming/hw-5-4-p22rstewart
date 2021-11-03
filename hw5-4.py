@@ -13,7 +13,7 @@ print(len("excellent"))
 print("apple" in "pineapple")
 
 # Question 5
-print("Peach" < "pearl")
+print("Peach" > "pearl")
 
 # Question 6
 print("x" * 100)
