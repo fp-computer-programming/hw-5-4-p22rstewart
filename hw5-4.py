@@ -25,7 +25,7 @@ print(str(54321))
 print("p" not in "Pineapple")
 
 # Question 9
-print("\"Livin\' On a Prayer\" is my friend\'s favorite song.")
+print("\"Livin' On a Prayer\" is my friend's favorite song.")
 
 # Question 10
-print(len("\"Livin\' On a Prayer\" is my friend\'s favorite song."))
+print(len("\"Livin' On a Prayer\" is my friend's favorite song."))
