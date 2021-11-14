@@ -13,7 +13,7 @@ print(len("excellent"))
 print("apple" in "pineapple")
 
 # Question 5
-print("Peach" < "pearl")
+print("Peach" > "pearl")
 
 # Question 6
 print("x" * 100)
@@ -25,7 +25,11 @@ print(str(54321))
 print("p" not in "Pineapple")
 
 # Question 9
-print("\"Livin\' On a Prayer\" is my friend\'s favorite song.")
+print("\"Livin' On a Prayer\" is my friend's favorite song.")
 
 # Question 10
+<<<<<<< HEAD
 print(len("\"Livin\' On a Prayer\" is my friend\'s favorite song."))
+=======
+print(len("\"Livin' On a Prayer\" is my friend's favorite song."))
+>>>>>>> main
